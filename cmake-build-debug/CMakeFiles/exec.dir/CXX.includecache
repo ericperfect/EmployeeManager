@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/C++/EmployeeManage/library.h
+
+/mnt/d/C++/EmployeeManage/main.cpp
+iostream
+-
+library.h
+/mnt/d/C++/EmployeeManage/library.h
+
